@@ -1,6 +1,6 @@
 ## Index of source code examples:
 
-\generate barcode from console
-\generate barcode on Forms
-\print barcode
-\Set barcode options and Code128 alphabet
+\Generate Barcode From Console
+\Generate Barcode on Forms
+\Print Barcode
+\Set Barcode Options and Code128 Alphabet
