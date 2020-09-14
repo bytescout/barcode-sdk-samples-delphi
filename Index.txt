@@ -1,6 +1,10 @@
 ## Index of source code examples:
 
+\Add Barcode Checksum To Caption
+\Composed Barcode
 \Generate Barcode From Console
 \Generate Barcode on Forms
 \Print Barcode
+\QR Code Barcode With Calender Entry
+\QR Code with Website Url
 \Set Barcode Options and Code128 Alphabet
